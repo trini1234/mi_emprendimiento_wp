@@ -27,29 +27,45 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 
 | # | Página | Por qué la elijo (una línea) |
 |---|---|---|
-| 1 | Inicio (obligatoria) | |
-| 2 | Contacto (obligatoria) | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Inicio (obligatoria) | Es la primera impresión de LashBeauty y desde ahí se llega a todo el sitio. |
+| 2 | Contacto (obligatoria) | Es donde las clientas piden hora o consultan, con el formulario de Forminator. |
+| 3 | Servicios | Muestra los tipos de pestañas y sus precios, que es lo primero que una clienta quiere saber. |
+| 4 | Galería | Las fotos de trabajos antes/después son lo que más convence a una clienta, y usa Modula. |
+| 5 | Sobre mí | Genera confianza en quien hace el servicio, algo clave en un tratamiento tan cercano. |
 
-**Páginas que dejo para después:** (lista corta)
+**Páginas que dejo para después:** tienda, carro de compras, pago, blog y preguntas frecuentes (fase posterior).
 
 ## 3. Plan del tema (5 pts)
 
-- **Nombre del tema:**
-- **Custom o descargado:** (y por qué, en una línea)
-- **Carta Gantt** del desarrollo del sitio (5 al 25 de noviembre). Puedes usar esta tabla o un diagrama Mermaid.
+**Nombre del tema:** lashbeauty-theme
 
-| Etapa | Desde | Hasta | Notas |
+**Custom o descargado:** Custom, porque así controlo el diseño de la marca. Si no resulta antes del miércoles 11 de noviembre, paso a un tema descargado (ver plan B).
+
+**Carta Gantt (5 al 25 de noviembre):**
+
+| Etapa | Inicio | Fin | Qué hago |
 |---|---|---|---|
-| Identidad visual | | | |
-| Home | | | |
-| Páginas | | | |
-| Plugins | | | |
-| **Checkpoint (18 nov)** | | 18 nov | |
-| Ajustes y formulario | | | |
-| **Entrega final (25 nov)** | | 25 nov | |
+| Identidad visual | Jue 5 nov | Dom 8 nov | Paleta, tipografías y logo de LashBeauty |
+| Home | Dom 8 nov | Mié 11 nov | Maquetar el Inicio con el tema propio |
+| Páginas | Mié 11 nov | Lun 16 nov | Servicios, Galería, Sobre mí y Contacto |
+| Plugins | Sáb 14 nov | Mar 17 nov | Instalar y configurar Yoast, Forminator, Akismet, BackWPup y Modula |
+| **Checkpoint** | **Mié 18 nov** | **Mié 18 nov** | **Revisión y corrección de este documento** |
+| Ajustes y pruebas | Mié 18 nov | Mar 24 nov | Probar formulario, velocidad, celular y SEO |
+| **Entrega final** | **Mié 25 nov** | **Mié 25 nov** | **Sitio terminado y entregado** |
+
+```mermaid
+gantt
+    title LashBeauty - 5 al 25 de noviembre
+    dateFormat YYYY-MM-DD
+    section Etapas
+    Identidad visual          :2026-11-05, 4d
+    Home                      :2026-11-08, 4d
+    Paginas                   :2026-11-11, 6d
+    Plugins                   :2026-11-14, 4d
+    Ajustes y pruebas         :2026-11-18, 7d
+    section Hitos
+    Checkpoint (mie 18)       :milestone, 2026-11-18, 0d
+    Entrega final (mie 25)    :milestone, 2026-11-25, 0d
 
 Ejemplo con Mermaid (GitHub lo muestra como gráfico):
 
