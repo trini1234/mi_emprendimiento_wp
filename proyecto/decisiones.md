@@ -15,11 +15,11 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 
 | # | Funcionalidad | Plugin | Gratis o de pago | Qué incluye la versión gratis | Probado hasta (WP) | Requiere PHP | ¿Funciona con tema propio? | Enlace a la ficha |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Yoast SEO (obligatorio) |Aparecer en Google (“pestañas Valparaíso”) |Gratis con Premium opcional |Análisis SEO y de legibilidad por página, títulos y meta descripciones, sitemap XML y datos de schema. Lo de pago (Premium) añade redirecciones, sugerencias de enlaces internos y herramientas de IA.|7.1.4  | 7.4 o superior |Si|wordpress.org/plugins/wordpress-seo/ |
-| 2 |Forminator Forms – Contact Form, Payment Form & Custom Form Builder (obligatorio) | | | | | | | |
-| 3 |Akismet Anti-spam: Spam Protection | | | | | | | |
-| 4 |BackWPup – Plugin de copia de seguridad y restauración de WordPress | | | | | | | |
-| 5 |Modula Image Gallery – Photo Grid & Video Gallery | | | | | | | |
+| 1 | Aparecer en Google ("pestañas Valparaíso") | Yoast SEO (obligatorio) | Gratis, con Premium opcional | Análisis SEO y de legibilidad por página, títulos y meta descripciones, sitemap XML y datos de schema. Lo de pago (Premium) añade redirecciones, sugerencias de enlaces internos y herramientas de IA. | 7.1.4 | 7.4 o superior | Sí, si el tema llama a wp_head() | https://wordpress.org/plugins/wordpress-seo/ |
+| 2 | Formulario para que las clientas pidan hora o consulten | Forminator Forms – Contact Form, Payment Form & Custom Form Builder (obligatorio) | Gratis, con versión Pro de pago | Formularios con editor de arrastrar y soltar, plantillas, encuestas, calculadoras y más de 1000 integraciones. Pro añade campos y extensiones extra (PDF, suscripciones con Stripe). En la fase 1 solo uso el formulario de contacto. | 7.0.1 | 7.4 o superior | Sí, si el tema llama a wp_footer() | https://wordpress.org/plugins/forminator/ |
+| 3 | Bloquear spam en el formulario y los comentarios | Akismet Anti-spam: Spam Protection | Gratis solo para uso personal; un negocio probablemente necesita plan de pago | Revisa los envíos y comentarios contra una base global de spam y filtra los sospechosos. | 7.1.4 | 7.2 o superior | Sí | https://wordpress.org/plugins/akismet/ |
+| 4 | Copia de seguridad del sitio por si algo se rompe | BackWPup – Plugin de copia de seguridad y restauración de WordPress | Gratis, con versión Pro de pago | Copias automáticas programadas de archivos y base de datos, con envío a destinos como Dropbox o S3. Pro añade más funciones. | 7.1.4 | 7.4 o superior | Sí | https://wordpress.org/plugins/backwpup/ |
+| 5 | Mostrar la galería de trabajos y fotos antes/después | Modula Image Gallery – Photo Grid & Video Gallery | Gratis, con extensiones de pago | Galería de fotos en cuadrícula y soporte de video. Las extensiones avanzadas son de pago. | 7.0 | 5.6 o superior | Sí | https://wordpress.org/plugins/modula-best-grid-gallery/ |
 
 ## 2. Páginas de la fase 1 (5 pts)
 
