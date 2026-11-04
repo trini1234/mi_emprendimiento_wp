@@ -69,22 +69,22 @@ gantt
 
 Ejemplo con Mermaid (GitHub lo muestra como gráfico):
 
-````
 ```mermaid
 gantt
+    title LashBeauty - 5 al 25 de noviembre
     dateFormat YYYY-MM-DD
-    title Plan de mi sitio
-    section Tema
-    Identidad visual :2026-11-05, 4d
-    Home             :2026-11-09, 4d
-    section Contenido
-    Páginas          :2026-11-12, 5d
-    Plugins          :2026-11-14, 4d
-    Checkpoint           :milestone, 2026-11-18, 0d
-    Ajustes          :2026-11-19, 6d
-    Entrega final    :milestone, 2026-11-25, 0d
+    section Etapas
+    Identidad visual          :2026-11-05, 4d
+    Home                      :2026-11-08, 4d
+    Paginas                   :2026-11-11, 6d
+    Plugins                   :2026-11-14, 4d
+    Ajustes y pruebas         :2026-11-18, 7d
+    section Hitos
+    Checkpoint (mie 18)       :milestone, 2026-11-18, 0d
+    Entrega final (mie 25)    :milestone, 2026-11-25, 0d
 ```
-````
+
+
 
 ## 4. Plan B (5 pts)
 
