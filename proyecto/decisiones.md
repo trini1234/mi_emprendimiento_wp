@@ -92,15 +92,11 @@ Qué hago si algo no funciona. **Al menos 3 riesgos**, cada uno con su mitigaci�
 
 | Riesgo | Qué hago | Cuándo se activa (fecha o señal) |
 |---|---|---|
-| El tema propio no funciona o se rompe | | |
-| Un plugin falla o no es compatible | | |
-| | | |
+| El tema propio no funciona o se rompe | Vuelvo al último commit de GitHub; si no resulta, paso a un tema descargado | Miércoles 11 de noviembre |
+| Un plugin falla o no es compatible (por ejemplo, Forminator por la versión de PHP del hosting) | Uso la alternativa anotada: Contact Form 7 en lugar de Forminator, Antispam Bee en lugar de Akismet, galería nativa de WordPress en lugar de Modula | Al instalarlo y probarlo |
+| InfinityFree da error 500 o 429 | Espero unos minutos y reintento; mientras, sigo trabajando en Local WP | Si dura más de 1 hora |
+| El correo del formulario no llega a LashBeauty | Pruebo otra configuración de correo y dejo un botón de WhatsApp como respaldo | Antes del 18 de noviembre |
+| Akismet exige plan de pago para un sitio comercial | Lo reemplazo por Antispam Bee, que es gratis | Al configurarlo, antes del 17 de noviembre |
 
-## Cambios respecto de la Sumativa 2 (solo en el checkpoint del 18 nov)
-
-| Qué cambié | Qué había antes | Por qué | Evidencia (captura o commit) |
-|---|---|---|---|
-| | | | |
-
-**Decisión:** (continúo con mi propuesta / pivoteo, y por qué)
+**Decisión:** Continúo con mi propuesta. Por ahora no hay cambios respecto de lo planteado: sigo con el tema propio lashbeauty-theme y con los 5 plugins elegidos (Yoast SEO, Forminator, Akismet, BackWPup y Modula). Si algo cambia, lo registro en la tabla de arriba.
 
