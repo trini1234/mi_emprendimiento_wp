@@ -15,11 +15,11 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 
 | # | Funcionalidad | Plugin | Gratis o de pago | Qué incluye la versión gratis | Probado hasta (WP) | Requiere PHP | ¿Funciona con tema propio? | Enlace a la ficha |
 |---|---|---|---|---|---|---|---|---|
-| 1 | SEO (obligatorio) | | | | | | | |
-| 2 | Contacto (obligatorio) | | | | | | | |
-| 3 | | | | | | | | |
-| 4 | | | | | | | | |
-| 5 | | | | | | | | |
+| 1 | Yoast SEO (obligatorio) |Aparecer en Google (“pestañas Valparaíso”) |Gratis con Premium opcional |Análisis SEO y de legibilidad por página, títulos y meta descripciones, sitemap XML y datos de schema. Lo de pago (Premium) añade redirecciones, sugerencias de enlaces internos y herramientas de IA.|7.1.4  | 7.4 o superior |Si|wordpress.org/plugins/wordpress-seo/ |
+| 2 |Forminator Forms – Contact Form, Payment Form & Custom Form Builder (obligatorio) | | | | | | | |
+| 3 |Akismet Anti-spam: Spam Protection | | | | | | | |
+| 4 |BackWPup – Plugin de copia de seguridad y restauración de WordPress | | | | | | | |
+| 5 |Modula Image Gallery – Photo Grid & Video Gallery | | | | | | | |
 
 ## 2. Páginas de la fase 1 (5 pts)
 
