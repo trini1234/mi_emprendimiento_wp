@@ -71,25 +71,8 @@ gantt
     Checkpoint (mie 18)       :milestone, 2026-11-18, 0d
     Entrega final (mie 25)    :milestone, 2026-11-25, 0d
 ```
-gantt
-    title LashBeauty - 5 al 25 de noviembre
-    dateFormat YYYY-MM-DD
-    section Etapas
-    Identidad visual          :2026-11-05, 4d
-    Home                      :2026-11-08, 4d
-    Paginas                   :2026-11-11, 6d
-    Plugins                   :2026-11-14, 4d
-    Ajustes y pruebas         :2026-11-18, 7d
-    section Hitos
-    Checkpoint (mie 18)       :milestone, 2026-11-18, 0d
-    Entrega final (mie 25)    :milestone, 2026-11-25, 0d
-```
-
-
 
 ## 4. Plan B (5 pts)
-
-Listo, cambié la fecha del correo del formulario al 25 de noviembre.
 
 | Riesgo | Qué hago | Cuándo se activa (fecha o señal) |
 |---|---|---|
@@ -97,9 +80,7 @@ Listo, cambié la fecha del correo del formulario al 25 de noviembre.
 | Un plugin falla o no es compatible (por ejemplo, Forminator por la versión de PHP del hosting) | Uso la alternativa anotada: Contact Form 7 en lugar de Forminator, Antispam Bee en lugar de Akismet, galería nativa de WordPress en lugar de Modula | Al instalarlo y probarlo |
 | El formulario de contacto con CSS personalizado pierde el diseño al navegar entre páginas o en incógnito | Entrego en la Fase A el formulario funcional con el estilo predeterminado de Forminator y dejo el CSS personalizado para la Fase B. Guardo una copia del CSS en un bloc de notas y en GitHub. En la Fase B investigo la causa: consola F12 (errores de carga de archivos de Forminator), carga por AJAX, módulos del plugin Rendimiento, caché y protección anti-bots de InfinityFree, y Cloudflare gratis como opción | Señal: el formulario aparece sin diseño tras recargar o navegar. Se entrega en la Fase A sin CSS personalizado y se retoma al iniciar la Fase B |
 | InfinityFree da error 500 o 429 | Espero unos minutos y reintento; mientras, sigo trabajando en Local WP | Si dura más de 1 hora |
-| El correo del formulario no llega a LashBeauty | Pruebo otra configuración de correo (FluentSMTP) y dejo un botón de WhatsApp como respaldo | **Antes del 25 de noviembre** |
+| El correo del formulario no llega a LashBeauty | Pruebo otra configuración de correo (FluentSMTP) y dejo un botón de WhatsApp como respaldo | Antes del 25 de noviembre |
 | Akismet exige plan de pago para un sitio comercial | Lo reemplazo por Antispam Bee, que es gratis | Al configurarlo, antes del 17 de noviembre |
 
-Un detalle: la fila de Akismet sigue con el 17 de noviembre y la del tema con el 11, que ya pasaron. Si quieres, dime las nuevas fechas y las actualizo también.
 **Decisión:** Continúo con mi propuesta. Por ahora no hay cambios respecto de lo planteado: sigo con el tema propio lashbeauty-theme y con los 5 plugins elegidos (Yoast SEO, Forminator, Akismet, BackWPup y Modula). Si algo cambia, lo registro en la tabla de arriba.
-
