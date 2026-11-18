@@ -53,6 +53,10 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 | Ajustes y pruebas | Mié 18 nov | Mar 24 nov | Probar formulario, velocidad, celular y SEO |
 | **Entrega final** | **Mié 25 nov** | **Mié 25 nov** | **Sitio terminado y entregado** |
 
+# Cronograma LashBeauty
+
+Ejemplo con Mermaid (GitHub lo muestra como gráfico):
+
 ```mermaid
 gantt
     title LashBeauty - 5 al 25 de noviembre
@@ -66,10 +70,7 @@ gantt
     section Hitos
     Checkpoint (mie 18)       :milestone, 2026-11-18, 0d
     Entrega final (mie 25)    :milestone, 2026-11-25, 0d
-
-Ejemplo con Mermaid (GitHub lo muestra como gráfico):
-
-```mermaid
+```
 gantt
     title LashBeauty - 5 al 25 de noviembre
     dateFormat YYYY-MM-DD
