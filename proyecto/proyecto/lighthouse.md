@@ -22,7 +22,7 @@ Copia este contenido en un archivo `lighthouse.md` en la carpeta `proyecto/` de 
 
 **Evidencia:** (captura del informe o enlace al resultado de PageSpeed Insights)
 
-![Resultado de PageSpeed Insights](pagespeed.png)
+![Resultado de PageSpeed Insights](../pagespedd.png.png)
 
 ## 2. Análisis (1 pt)
 
