@@ -15,12 +15,13 @@ Copia este contenido en un archivo `lighthouse.md` en la carpeta `proyecto/` de 
 
 | Categoría | Puntaje (0 a 100) |
 |---|---|
-| Rendimiento | |
-| Accesibilidad | |
-| Buenas prácticas | |
-| SEO | |
+| Rendimiento |98 |
+| Accesibilidad |96 |
+| Buenas prácticas |100 |
+| SEO |100 |
 
 **Evidencia:** (captura del informe o enlace al resultado de PageSpeed Insights)
+
 
 ## 2. Análisis (1 pt)
 
