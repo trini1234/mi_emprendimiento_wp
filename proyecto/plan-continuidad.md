@@ -35,16 +35,18 @@ Lista las funcionalidades que quisiste hacer y no pudiste. Para cada una, la raz
 ## 3. Priorización y cronograma (2 pts)
 
 Ordena lo que harías primero y en cuánto tiempo. Puedes usar una tabla o un diagrama Gantt.
-
 | Prioridad | Qué hago | Cuándo (mes o semana) | Resultado esperado |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Arreglar el formulario de contacto para que los mensajes lleguen a mi correo y el diseño se guarde bien | Semana 1 | Recibir los mensajes de las clientas en mi correo sin entrar a WordPress |
+| 2 | Cambiar a un hosting de pago e instalar Bookly (empezando con la versión gratis) | Semanas 2 y 3 | Que las clientas reserven su hora online y me lleguen los avisos |
+| 3 | Agregar una sección de reseñas de clientas y, después, la tienda con WooCommerce | Mes 2 | Más confianza en el sitio y un ingreso extra vendiendo productos de pestañas |
 
 ## 4. Riesgos y mitigación (1 pt)
 
 | Riesgo | Qué haría | Cuándo se activa |
 |---|---|---|
-| (por ejemplo, el plugin de pago cuesta más de lo previsto) | | |
-| | | |
+| Los correos del formulario seguirían sin llegar aunque cambiara de hosting | Probaría un plugin de correo (SMTP) como WP Mail SMTP y dejaría WhatsApp e Instagram como respaldo para no perder clientas | Si después de configurarlo no me llegaran los mensajes de prueba |
+| El hosting de pago sería más caro de lo que podría pagar | Empezaría con el plan más barato y subiría de plan solo si el negocio lo necesitara | Cuando cotizara y viera el precio real |
+| Bookly o el plugin de pagos costarían más de lo previsto (la oferta de Black Friday termina el 1 de diciembre) | Me quedaría con la versión gratis de Bookly y pasaría a Pro solo si la necesitara | Cuando viera el precio final antes de instalarlo |
+| El sitio se pondría lento al agregar plugins | Volvería a medir con PageSpeed y desactivaría lo que no fuera necesario | Si el puntaje de Rendimiento bajara de 90 |
+| No tendría tiempo para hacer todo en las fechas del cronograma | Cumpliría primero las prioridades 1 y 2 y dejaría la tienda para más adelante | Si en la semana 3 todavía no hubiera terminado el hosting y la agenda |
